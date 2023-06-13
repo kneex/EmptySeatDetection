@@ -8,7 +8,7 @@ This project is about developing a real-time computer vision application to accu
 
 The dataset used in this project was manually created and labeled to ensure high-quality training data for the model. The dataset primarily comprises images of various seating arrangements and statuses within the UTS Library, which helped in accurate empty seat detection.
 
-![Dataset](image/dataset.png)
+![Dataset](image/dataset.PNG)
 
 ## Model
 
@@ -54,13 +54,13 @@ The model used in this project is YOLOv5. This model was chosen after comparing 
 Here is the architecture of the YOLOv5 model used in this project:
 
 
-![Model Architecture](image/model.png)
+![Model Architecture](image/model.PNG)
 
 ## Demo
 
 Below is a demonstration of the application. The dynamic GUI designed as part of the project visualizes the location of empty seats on a library floor plan.
 
-![Demo](image/output.png)
+![Demo](image/output.PNG)
 
 ---
 
